@@ -4,8 +4,6 @@
 
 Includes device registration, activation and all required header and request body generation algorithms.
 
-Contact for price at [Telegram](https://t.me/sovitt)
-
 [![IPRoyal](assets/proxy.jpg)](https://iproyal.com/?r=ttproxy)
 
 # Installation
@@ -63,8 +61,17 @@ proxies={http:"http://user:password@proxyhost.com:port",https:"http://user:passw
 ```
 It's highly recommended that you use proxy to prevent your IP from getting banned.
 
-It's highly recommended to use Proxy service if you are making lots of requests in short interval of time. [IPRoyal](https://iproyal.com/?r=ttproxy) is good. *It's my referral link and I would get a bit from it*
+It's highly recommended to use Proxy service if you are making lots of requests in short interval of time. [IPRoyal](https://iproyal.com/?r=ttproxy) is good.
 
+
+# Price?
+- Full Scraper API including device registration source code for just USD 400. 
+- No Bullshit, I will give you your personalized demo personally.
+- No Dependency on extrenal servers or any subscriptions that adds latency to your project. Or even better if using python, could use the functions within your code.
+- Pure code that you can run and host for you own. 
+
+# Need more or have a gig?
+- Lets talk! contact informations below. 
 
 # Contact
 - [Telegram](https://t.me/sovitt)
