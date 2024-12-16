@@ -1,0 +1,8 @@
+apscheduler
+fastapi
+uvicorn 
+urllib3
+requests
+pytz
+python-multipart
+pycryptodome

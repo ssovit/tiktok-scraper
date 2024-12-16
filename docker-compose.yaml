@@ -1,0 +1,12 @@
+services:
+  app:
+    image: tiktok-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8100"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
