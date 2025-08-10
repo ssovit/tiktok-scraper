@@ -6,7 +6,7 @@ Includes device registration, activation and all required header and request bod
 
 [![IPRoyal](assets/proxy.jpg)](https://iproyal.com/?r=ttproxy)
 
-[![Discord]](![assets/discord.jpg](https://discord.com/api/guilds/820856055936188456/widget.png?style=banner4))(https://discord.gg/XBHydWEYZZ)
+[![Discord](https://discord.com/api/guilds/820856055936188456/widget.png?style=banner4)](https://discord.gg/XBHydWEYZZ)
 
 # Installation
 - `pip install -r requirements.txt`
